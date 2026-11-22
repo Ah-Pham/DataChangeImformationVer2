@@ -3,7 +3,7 @@
   Sua API ASP.NET Core can cung cap cac endpoint trong README.md.
   Sua API_BASE theo dia chi Backend cua ban.
 */
-const API_BASE = "https://internet-outlet-thumb-beta.trycloudflare.com"; // TODO: thay bang URL REST API cua ban
+const API_BASE = "https://seasons-lee-cosmetics-vids.trycloudflare.com"; // TODO: thay bang URL REST API cua ban
 
 const els = {
   authView: document.getElementById("authView"),
